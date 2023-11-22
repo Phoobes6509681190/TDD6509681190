@@ -12,7 +12,6 @@ public class Stack implements IStack {
 
 	@Override
 	public int getSize() {
-		// TODO Auto-generated method stub
 		return 0;
 	}
 
